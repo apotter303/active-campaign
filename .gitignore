@@ -129,7 +129,7 @@ dmypy.json
 .pyre/
 
 #config files
-/config.py
 config.py
-.config.py
-config.py/
+
+#Pipfiles
+Pipfile
